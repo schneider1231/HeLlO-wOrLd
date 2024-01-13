@@ -1,2 +1,3 @@
-# HeLlO-wOrLd
-This code make each other character in the sentence you input upper case and then make each other world of the sentence upper case.
+# HeLlO wOrLd | hello WORLD
+
+This code asks the user to input a sentence and then changes each other character to uppercase and lower case.Then changes each other word to
